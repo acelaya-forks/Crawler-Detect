@@ -1,7 +1,7 @@
 {
-    "name": "jaybizzle/crawler-detect",
+    "name": "acelaya/crawler-detect",
     "type": "library",
-    "description": "CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent",
+    "description": "Fork of https://github.com/JayBizzle/Crawler-Detect/ with PHP 8.4 warnings fixed",
     "keywords": ["crawler", "crawler detect", "crawler detector", "crawlerdetect", "php crawler detect"],
     "homepage": "https://github.com/JayBizzle/Crawler-Detect/",
     "license": "MIT",
